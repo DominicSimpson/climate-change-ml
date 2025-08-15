@@ -95,6 +95,8 @@ Summary of Results and Predictions after looking at data:
 
 <img width="679" height="574" alt="Image" src="https://github.com/user-attachments/assets/c2927384-a83f-4a5c-a88c-4dfa29ce477d" />
 
+Conclusion: While it is difficult initially to interpret the data that my ML models have produced, the overall conclusion to gain from the data and the ML processing of that data is that average temperatures have risen overall when taking into account the countries in the dataset, and will continue to rise. However, isolating data for each country is difficult, given that weather patterns exist regardless of international borders. It is at the macro level (all the countries in the dataset combined) that average temperature rise is clearest.
+
 <br>
 Thank you for reading.
  
