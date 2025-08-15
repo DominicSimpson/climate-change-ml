@@ -91,7 +91,7 @@ Summary of Results and Predictions after looking at data:
 
 <img width="1155" height="573" alt="Image" src="https://github.com/user-attachments/assets/b737f681-998e-48f0-88d1-02e04cbdae73" />
 
-- My ML processing did produce basic predictions for average temperatures in the countries in the dataset. However, this was before fine-tuning the ML models. I did not have time to compare the MP predictions with the reality (as of 2024, the most recent year in the data), nor to compare with future dates.
+- My ML processing did produce basic predictions for average temperatures in the countries in the dataset. However, this was before fine-tuning the ML models. I did not have time to compare the MP predictions with the reality (as of 2024, the most recent year in the data), nor to predict with future dates.
 
 <img width="679" height="574" alt="Image" src="https://github.com/user-attachments/assets/c2927384-a83f-4a5c-a88c-4dfa29ce477d" />
 
