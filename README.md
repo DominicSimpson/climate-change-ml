@@ -64,21 +64,32 @@ I used a RandomForestRegressor as an interesting contrast to previously learning
 Summary of Results and Predictions after looking at data:
 
 - Hypothesis 1: Countries throughout the world have seen a general rise in temperatures overall.
-  - The Data Visualization of the original data shows that the combined average temperatures of the fifteen countries in the data has indeed risen overall throughout the last 25 years.
+  - The Data Visualization of the processed data shows that the combined average temperatures of the fifteen countries in the data has indeed risen overall throughout the last 25 years.
 
 <img width="1158" height="607" alt="Image" src="https://github.com/user-attachments/assets/e8cdf4b6-8174-4d8b-8863-d7ba6abff8dd" />
 
-The results of my ML appear to bear this out too when n_estimators = 200:
+  - The results of my ML appear to bear this out too when n_estimators = 200:
 
 <img width="773" height="564" alt="Image" src="https://github.com/user-attachments/assets/dea44167-f1dc-486b-a447-471008d9764c" />
 
-However, after spliting data into train/test sets, a more unclear picture emerges:
+  - However, after spliting data into train/test sets, a more unclear picture emerges:
 
 <img width="767" height="566" alt="Image" src="https://github.com/user-attachments/assets/4ef9156c-9caf-492f-b0a8-e0a5807bd5ea" />
 
-Despite this, I believe that the data and ML predictions alike do ultimately show that the fifteen countries have seen an increase in temperatures.
+  - Despite this, the data and the majority of ML predictions alike do ultimately show that the fifteen countries have seen an increase in temperatures.
 
 - Hypothesis 2: Rising global temperatures can be correlated with the trend for increasing CO₂ emissions per capita - despite attempts by countries and organisations to bring down CO₂ levels.
+
+  - This hypothesis is true when looking at the data visualization of the processed data:
+ 
+<img width="1156" height="621" alt="Image" src="https://github.com/user-attachments/assets/e833dd94-3396-4b2e-8593-359c982efd37" />
+
+ - However, the picture becomes much more complicated and unclear at the country level:
+
+<img width="1155" height="573" alt="Image" src="https://github.com/user-attachments/assets/b737f681-998e-48f0-88d1-02e04cbdae73" />
+
+- I did not have the time in this project to look at the final ML predictions for average temperature by individual country. This is something that I would like to have looked into a lot more.
+- 
 
 
  
