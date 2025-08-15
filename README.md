@@ -42,7 +42,7 @@ Hypotheses:
 - Countries throughout the world have seen a general rise in temperatures overall.
 - Rising global temperatures can be correlated with the trend for increasing CO₂ emissions per capita - despite attempts by countries and organisations to bring down CO₂ levels.
 
-Which column will be my target variable for Machine Learning
+Which column will be my target variable for Machine Learning:
 
 - Avg Temperature (°C)
   
@@ -71,7 +71,7 @@ Summary of Results and Predictions after looking at data:
 <img width="1158" height="607" alt="Image" src="https://github.com/user-attachments/assets/e8cdf4b6-8174-4d8b-8863-d7ba6abff8dd" />
 <br>
 
-  - The results of my ML appear to bear this out too when n_estimators = 200:
+  - The results of my ML appear to bear this out too when `n_estimators = 200`:
 
 <img width="773" height="564" alt="Image" src="https://github.com/user-attachments/assets/dea44167-f1dc-486b-a447-471008d9764c" />
 
