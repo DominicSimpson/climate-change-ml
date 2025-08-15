@@ -23,3 +23,11 @@ Analysis Questions:
 - Has there been an increase in extreme weather over the 25 year period?
 - Can relationships be established between a countries' renewal energy program and forest area (both %), on the other, and average temperature, sea level rise, and extreme weather events on the other?
 
+Hypotheses:
+
+- Countries throughout the world have seen a general rise in temperatures overall.
+- Rising global temperatures can be correlated with the trend for increasing CO₂ emissions per capita - despite attempts by countries and organisations to bring down CO₂ levels.
+
+Which column will be my target variable for Machine Learning
+
+- Avg Temperature (°C)
