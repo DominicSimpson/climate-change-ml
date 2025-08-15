@@ -9,6 +9,17 @@ in climate change has led me to choose the following dataset from Kaggle: https:
 - File Size: 53.21kB - 90kB (depending on encoding)
 - Number of Rows: 1000
 - Number of Columns: 10
+- Column names:
+  - Year
+  - Country
+  - Avg Temperature (°C)
+  - CO2 Emissions (Tons/Capita)
+  - Sea Level Rise (mm)
+  - Rainfall (mm)
+  - Population
+  - Renewable Energy (%)
+  - Extreme Weather Events
+  - Forest Area (%)
 
 Climate change is a subject that interests me, but I wanted a smaller dataset than the large World Bank datasets on climate change that also appear on Kaggle, for example.
 This smaller dataset only lists climate data for fifteen countries - Argentina, Australia, Brazil, Canada, China, France, Germany, India, Indonesia, Mexico, Japan, 
