@@ -54,7 +54,9 @@ Summary of cleaning and transforming data:
 
 ML:
 
-I used a RandomForestRegressor as an interesting contrast to previously learning KNeighborsRegressor. The results of my tests on my data led to the following outputs:
+I used a RandomForestRegressor as an interesting contrast to previously learning KNeighborsRegressor. I also used GridSearchCV, which gave my data a model (or pipeline) and a grid of parameter values to try. GridSearchCV trained and validated each parameter combo using K-fold CV.
+
+The results of my tests on my data led to the following outputs:
 
 - Mean Absolute Error: 7.74 °C
 - Mean Squared Error: 83.40 °C^2
@@ -89,7 +91,5 @@ Summary of Results and Predictions after looking at data:
 <img width="1155" height="573" alt="Image" src="https://github.com/user-attachments/assets/b737f681-998e-48f0-88d1-02e04cbdae73" />
 
 - I did not have the time in this project to look at the final ML predictions for average temperature by individual country. This is something that I would like to have looked into a lot more.
-- 
-
 
  
