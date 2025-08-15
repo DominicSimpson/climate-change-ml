@@ -26,8 +26,7 @@ in climate change has led me to choose the following dataset from Kaggle: https:
   - Forest Area (%)
 
 Climate change is a subject that interests me, but I wanted a smaller dataset than the large World Bank datasets on climate change that also appear on Kaggle, for example.
-This smaller dataset only lists climate data for fifteen countries - Argentina, Australia, Brazil, Canada, China, France, Germany, India, Indonesia, Mexico, Japan, 
-Russia, South Africa, the UK, and the USA - thus making this project easier.
+This smaller dataset only lists climate data for fifteen countries over the period 2000-2024 - Argentina, Australia, Brazil, Canada, China, France, Germany, India, Indonesia, Mexico, Japan, Russia, South Africa, the UK, and the USA - thus making this project easier compared to if data on all of the world's countries were included.
 
 
 Analysis Questions:
