@@ -69,6 +69,7 @@ Summary of Results and Predictions after looking at data:
   - The Data Visualization of the processed data shows that the combined average temperatures of the fifteen countries in the data has indeed risen overall throughout the last 25 years.
 
 <img width="1158" height="607" alt="Image" src="https://github.com/user-attachments/assets/e8cdf4b6-8174-4d8b-8863-d7ba6abff8dd" />
+<br>
 
   - The results of my ML appear to bear this out too when n_estimators = 200:
 
