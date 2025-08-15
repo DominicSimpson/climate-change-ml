@@ -1,5 +1,7 @@
 # Dominic Simpson - La Fosse Hackathon - Data Deep Dive
 
+![Image](https://github.com/user-attachments/assets/e33472fc-3eb2-401f-b7a1-b443493c2e6a)
+
 ### Exposition:
 For this hackaton project, "From Data to Insights to Predictions", and for my first Machine Learning project, my interest
 in climate change has led me to choose the following dataset from Kaggle: https://www.kaggle.com/datasets/bhadramohit/climate-change-dataset/data
