@@ -45,15 +45,16 @@ Hypotheses:
 Which column will be my target variable for Machine Learning
 
 - Avg Temperature (°C)
-
+  
 Summary of cleaning and transforming data:
+
 - I ensured via regex that the measurements in the column titles (°C, for example) were removed, and the titles converted to lowercase, with underscores added. This made for better formatted titles. I also dropped the Population column, due to not being essential to the project; in addition, the figures in the column were noticeably wrong.
 - I ensured that columns with floats were formatted to two decimal places, to preserve precision from original calculations (in climate change studies, small differences can be meaningful when looking at long-term trends).
 - I ordered the dataset by country and years (A-Z and 2000-2024 respectively).
 
 ML:
 
-I used a RandomForestRegressor as an interesting contrast to previously learning KNeighborsRegressor. The results of my tests on my dataled to the following outputs:
+I used a RandomForestRegressor as an interesting contrast to previously learning KNeighborsRegressor. The results of my tests on my data led to the following outputs:
 
 - Mean Absolute Error: 7.74 °C
 - Mean Squared Error: 83.40 °C^2
