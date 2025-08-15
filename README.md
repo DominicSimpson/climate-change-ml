@@ -3,7 +3,7 @@
 ![Image](https://github.com/user-attachments/assets/e33472fc-3eb2-401f-b7a1-b443493c2e6a)
 
 ### Exposition:
-For this hackaton project, "From Data to Insights to Predictions", and for my first Machine Learning (ML) project, my interest
+For this hackathon project, "From Data to Insights to Predictions", and for my first Machine Learning (ML) project, my interest
 in climate change has led me to choose the following dataset from Kaggle: https://www.kaggle.com/datasets/bhadramohit/climate-change-dataset/data
 
 
@@ -90,6 +90,9 @@ Summary of Results and Predictions after looking at data:
 
 <img width="1155" height="573" alt="Image" src="https://github.com/user-attachments/assets/b737f681-998e-48f0-88d1-02e04cbdae73" />
 
-- I did not have the time in this project to look at the final ML predictions for average temperature by individual country. This is something that I would like to have looked into a lot more.
+- My ML processing did produce basic predictions for average temperatures in the countries in the dataset. However, this was before fine-tuning the ML models. I did not have time to compare the MP predictions with the reality (as of last year), nor to compare with future dates.
 
+<img width="679" height="630" alt="Image" src="https://github.com/user-attachments/assets/63fe6144-7407-4a4e-8e23-b9108cd32222" />
+
+Thank you for reading.
  
