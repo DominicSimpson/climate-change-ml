@@ -60,3 +60,25 @@ I used a RandomForestRegressor as an interesting contrast to previously learning
 - Mean Squared Error: 83.40 °C^2
 - Root Mean Squared Error: 9.13 °C
 - R2: -0.14
+
+Summary of Results and Predictions after looking at data:
+
+- Hypothesis 1: Countries throughout the world have seen a general rise in temperatures overall.
+  - The Data Visualization of the original data shows that the combined average temperatures of the fifteen countries in the data has indeed risen overall throughout the last 25 years.
+
+<img width="1158" height="607" alt="Image" src="https://github.com/user-attachments/assets/e8cdf4b6-8174-4d8b-8863-d7ba6abff8dd" />
+
+The results of my ML appear to bear this out too when n_estimators = 200:
+
+<img width="773" height="564" alt="Image" src="https://github.com/user-attachments/assets/dea44167-f1dc-486b-a447-471008d9764c" />
+
+However, after spliting data into train/test sets, a more unclear picture emerges:
+
+<img width="767" height="566" alt="Image" src="https://github.com/user-attachments/assets/4ef9156c-9caf-492f-b0a8-e0a5807bd5ea" />
+
+Despite this, I believe that the data and ML predictions alike do ultimately show that the fifteen countries have seen an increase in temperatures.
+
+- Hypothesis 2: Rising global temperatures can be correlated with the trend for increasing CO₂ emissions per capita - despite attempts by countries and organisations to bring down CO₂ levels.
+
+
+ 
